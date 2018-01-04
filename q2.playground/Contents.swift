@@ -46,7 +46,7 @@ func detectCycleEff(Node:Node?)->Bool{
     }
     return false
 }
-
+//Testing
 var node = Node(value : 10)
 var secondNode = Node(value: 5)
 var thirdNode = Node(value: 15)
